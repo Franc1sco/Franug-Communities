@@ -35,4 +35,11 @@
 * Because I would like to continue in the modding world but not as a job, just as a hobby.
 
 
+# Contact with me *(preferably Telegram or Discord)*:  
+
+* **Steam**: http://steamcommunity.com/id/franug
+* **Telegram**: https://t.me/Franc1sco
+* **Discord**: Franc1sco#7876
+
+
 More info about me and my private plugins here https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS
