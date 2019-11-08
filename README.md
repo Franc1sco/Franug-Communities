@@ -12,6 +12,7 @@
 # Communities where I am:
 
 * Gaming-force.es
+* clanzonazero.com
 * Elite Hunterz
 * CPH-Gaming.dk
 
