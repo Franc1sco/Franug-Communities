@@ -7,17 +7,17 @@
 
 ### Requeriments to have me in your community:
 
-* I should have a decent ping in your servers (european), but I could make a exception in servers that talk my native language (spanish).
+* I should have a decent ping in your servers (I live in Spain with fiber of 600 MB), but I could make a exception in servers that talk my native language (spanish).
 * You should have atleast one server with people (i dont want to lose time on setup a community from scratch).
 
 
 ### What I offer:
 
 * A experimented sourcemod coder (and with a real developer job) and servers configurator with 9 years doing servers stuff at your service for free.
-* Full support for free.
-* Access to private plugins that not relased yet.
-* Setup new servers, make new plugins, features or configs for free.
-* I could put your server ip in my public plugins post that are using it.
+* I could give you full support for free.
+* I could give you access to private plugins not relased yet.
+* I could help you on setup new servers, fix bugs, make new plugins, features, improvements and configs for free.
+* I could advertise your server ip in my public plugins post that are using it.
 
 
 ### Rules:
@@ -32,7 +32,7 @@
 
 * Because I like programming in game servers and I would like to have the possibility of program different servers for different people.
 * Because I want to continue coding activily sourcemod plugins without the responsability of paid requests, just for fun and when i want.
-* Because I would like to continue in the modding world but not as a job, just as a hobby.
+* Because I would like to continue in the modding world but not as a job, just as a hobby. I have a real programmer job so the money is not a necesity like it was before, now I do modding just for fun.
 
 
 ### Contact with me *(preferably Telegram or Discord)*:  
