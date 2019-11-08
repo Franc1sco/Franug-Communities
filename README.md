@@ -6,7 +6,7 @@
 - [Rules](#rules)
 - [Why I want to participate on communities for free](#why-i-want-to-participate-on-communities-for-free)
 - [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
-- [More info about me and my private plugins]()
+- [More info about me and my private plugins](#more-info-about-me-and-my-private-plugins-here-httpsgithubcomfranc1scofranug-private-plugins)
 
 
 # Communities where I am:
