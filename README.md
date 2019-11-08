@@ -1,3 +1,13 @@
+# Index
+
+- [Communities where I am](#communities-where-i-am)
+- [Requeriments to have me in your community](#requeriments-to-have-me-in-your-community)
+- [What I offer](#what-i-offer)
+- [Rules](#rules)
+- [Why I want to participate on communities for free](#why-i-want-to-participate-on-communities-for-free)
+- [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
+
+
 ### Communities where I am:
 
 * Gaming-force.es
