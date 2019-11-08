@@ -1,4 +1,4 @@
-### Index
+# Index
 
 - [Communities where I am](#communities-where-i-am)
 - [Requeriments to have me in your community](#requeriments-to-have-me-in-your-community)
@@ -6,22 +6,23 @@
 - [Rules](#rules)
 - [Why I want to participate on communities for free](#why-i-want-to-participate-on-communities-for-free)
 - [Contact with me](#contact-with-me-preferably-telegram-or-discord-)
+- [More info about me and my private plugins]()
 
 
-### Communities where I am:
+# Communities where I am:
 
 * Gaming-force.es
 * Elite Hunterz
 * CPH-Gaming.dk
 
 
-### Requeriments to have me in your community:
+# Requeriments to have me in your community:
 
 * I should have a decent ping in your servers (I live in Spain with fiber of 600 MB), but I could make a exception in servers that talk my native language (spanish).
 * You should have atleast one server with people (i dont want to lose time on setup a community from scratch).
 
 
-### What I offer:
+# What I offer:
 
 * A experimented sourcemod coder (and with a real developer job) and servers configurator with 9 years doing servers stuff at your service for free.
 * I could give you full support for free.
@@ -30,7 +31,7 @@
 * I could advertise your server ip in my public plugins post that are using it.
 
 
-### Rules:
+# Rules:
 
 * I will not help you in copy stuff from a community where I am.
 * I will help you when I have time (I am working for free so I dont have a real responsability with you).
@@ -38,18 +39,18 @@
 * You will trust me and I will trust on you. The ideal if that I would have ftp access for do the changes directly in the server but since give me ftp details too soon could be request too much, I can help you first and more later you will give me ftp access.
 
 
-### Why I want to participate on communities for free:
+# Why I want to participate on communities for free:
 
 * Because I like programming in game servers and I would like to have the possibility of program different servers for different people.
 * Because I want to continue coding activily sourcemod plugins without the responsability of paid requests, just for fun and when i want.
 * Because I would like to continue in the modding world but not as a job, just as a hobby. I have a real programmer job so the money is not a necesity like it was before, now I do modding just for fun.
 
 
-### Contact with me *(preferably Telegram or Discord)*:  
+# Contact with me *(preferably Telegram or Discord)*:  
 
 * **Steam**: http://steamcommunity.com/id/franug
 * **Telegram**: https://t.me/Franc1sco
 * **Discord**: Franc1sco#7876
 
 
-More info about me and my private plugins here https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS
+### More info about me and my private plugins here https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS
