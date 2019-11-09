@@ -15,6 +15,7 @@
 * clanzonazero.com
 * Elite Hunterz
 * CPH-Gaming.dk
+* RPG-Gaming
 
 
 # Requeriments to have me in your community:
