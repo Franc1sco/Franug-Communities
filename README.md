@@ -17,6 +17,7 @@
 * CPH-Gaming.dk
 * RPG-Gaming
 * PublicOnline
+* mdqservers.net
 
 
 # Requeriments to have me in your community:
