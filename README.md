@@ -19,6 +19,7 @@
 * PublicOnline
 * mdqservers.net
 * Oakum - Spanish Pro League
+* crazy-ducks.org
 
 
 # Requeriments to have me in your community:
