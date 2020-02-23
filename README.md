@@ -17,9 +17,8 @@
 * CPH-Gaming.dk
 * RPG-Gaming
 * PublicOnline
-* mdqservers.net
-* Oakum - Spanish Pro League
 * crazy-ducks.org
+* BLACKBIRDS
 
 
 # Requeriments to have me in your community:
