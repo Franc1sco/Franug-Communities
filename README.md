@@ -13,12 +13,12 @@
 
 * Gaming-force.es
 * clanzonazero.com
-* Elite Hunterz
-* CPH-Gaming.dk
 * RPG-Gaming
 * PublicOnline
 * crazy-ducks.org
 * BLACKBIRDS
+* 2UNLIMITED.RO
+* ESPAÑA TEAM PLVS VLTRA
 
 
 # Requeriments to have me in your community:
