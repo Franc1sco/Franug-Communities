@@ -9,16 +9,11 @@
 - [More info about me and my private plugins](#more-info-about-me-and-my-private-plugins-here-httpsgithubcomfranc1scofranug-private-plugins)
 
 
-# Communities where I am:
+# Communities where I am (searching more):
 
-* Gaming-force.es
-* clanzonazero.com
-* RPG-Gaming
-* PublicOnline
-* crazy-ducks.org
-* BLACKBIRDS
-* 2UNLIMITED.RO
-* ESPAÑA TEAM PLVS VLTRA
+* Gaming-force.es (CS:GO)
+* clanzonazero.com (CS:GO)
+* ESPAÑA TEAM PLVS VLTRA (CS:S)
 
 
 # Requeriments to have me in your community:
