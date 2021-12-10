@@ -1,6 +1,6 @@
 # Index
 
-- [Communities where I am](#communities-where-i-am)
+- [Communities where I am](#communities-where-i-am-searching-more)
 - [Requeriments to have me in your community](#requeriments-to-have-me-in-your-community)
 - [What I offer](#what-i-offer)
 - [Rules](#rules)
