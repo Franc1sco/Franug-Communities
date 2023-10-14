@@ -11,20 +11,20 @@
 
 # Communities where I am (searching more):
 
-* Gaming-force.es (CS:GO)
-* clanzonazero.com (CS:GO)
-* ESPAÑA TEAM PLVS VLTRA (CS:S)
+* Cola Team (CS2) https://discord.gg/czP2W5CVx8
+* ESPAÑA TEAM PLVS VLTRA (CS:S & CS2) https://discord.gg/plvsvltra
 
 
 # Requeriments to have me in your community:
 
-* I should have a decent ping in your servers (I live in Spain with fiber of 600 MB), but I could make a exception in servers that talk my native language (spanish).
+* I should have a decent ping in your servers (I live in Spain with fiber of 1 GB), but I could make a exception in servers that talk my native language (spanish).
 * You should have atleast one server with people (i dont want to lose time on setup a community from scratch).
+* Specially interested on active CS2 communities for have incentivization on develop more game modes.
 
 
 # What I offer:
 
-* A experimented sourcemod coder (and with a real developer job) and servers configurator with 9 years doing servers stuff at your service for free.
+* A experimented sourcemod coder (and with a real developer job) and servers configurator with +12 years doing servers stuff at your service for free.
 * I could give you full support for free.
 * I could give you access to private plugins not relased yet.
 * I could help you on setup new servers, fix bugs, make new plugins, features, improvements and configs for free.
