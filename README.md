@@ -50,7 +50,7 @@
 
 * **Steam**: http://steamcommunity.com/id/franug
 * **Telegram**: https://t.me/Franc1sco
-* **Discord**: Franc1sco#7876
+* **Discord**: franug
 
 
 ### More info about me and my private plugins here https://github.com/Franc1sco/Franug-PRIVATE-PLUGINS
